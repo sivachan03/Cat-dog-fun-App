@@ -1,6 +1,7 @@
 # cat_dog_gallery
 
 A new Flutter project.
+![App Screenshot](images/1.png)
 
 ## Getting Started
 
