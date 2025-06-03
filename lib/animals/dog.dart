@@ -63,7 +63,7 @@ class _DogfunState extends State<Dogfun> {
           TextButton(
             onPressed: () {
               setState(() {
-                showdogs = false;
+                showdogs = true;
               });
               fetchImages();
             },
